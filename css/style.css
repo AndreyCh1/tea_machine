@@ -1,0 +1,47 @@
+body {
+    background-color: #5f5f5f;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 18px;
+    color: darkorange;
+}
+
+h3 {
+    font-size: 18px;
+    color: limegreen;
+}
+
+h4 {
+    font-size: 18px;
+    color: firebrick;
+}
+
+.wrapper {
+    margin: 70px auto;
+    padding: 10px 30px;
+    width: 320px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.block {
+    margin-bottom: 20px;
+}
+
+.block h1 {
+    font-size: 20px;
+}
+
+.block label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.block .inline {
+    display: inline;
+}
